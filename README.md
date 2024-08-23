@@ -9,7 +9,7 @@ The project utilizes the ROS2 package [explore_lite](https://github.com/robo-fri
 ## Requirements
 The package requires the following to run successfully:
 1. ROS2 Humble
-2. Big House simulation Environment
+2. House simulation Environment
 The package was developed on Ubuntu 22.04 
 
 ## Building the package
@@ -24,7 +24,7 @@ And then install by using:
 ```
 
 ## Running the tasks
-The Big House simulation environment can be launched by using:
+The House simulation environment can be launched by using:
 ```
 ros2 launch turtlebot3_gazebo turtlebot3_house.launch.py
 ```
