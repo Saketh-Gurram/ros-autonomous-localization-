@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 import os
 package_name = 'amr_project'
-
+    
 setup(
     name=package_name,
     version='0.0.0',
